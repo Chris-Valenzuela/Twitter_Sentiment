@@ -1,3 +1,13 @@
+# Twitter DB SqLite
+twitter.db
+
+# Error handling from SQLite DB
+errors.txt
+
+# Keys for Twitter API 
+keys.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -60,6 +70,7 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+
 
 # Flask stuff:
 instance/
