@@ -16,4 +16,6 @@
             
 
 
-        
+6.12.2021:
+
+    TODO: Finished the series, I can choose to either try to recreate his UI (just not host it like he does) or figure out my UI
